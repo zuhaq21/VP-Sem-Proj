@@ -1,0 +1,12 @@
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Form1.resources
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.pdb
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\NAudio.dll
+c:\users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\NAudio.xml
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\NAudioUtils.dll
