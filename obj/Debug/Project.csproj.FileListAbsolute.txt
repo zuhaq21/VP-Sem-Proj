@@ -10,3 +10,12 @@ c:\users\haier\documents\visual studio 2013\Projects\Project\Project\obj\Debug\P
 c:\users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\NAudio.dll
 c:\users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\NAudio.xml
 C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\NAudioUtils.dll
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Accord.dll.config
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Accord.Audio.dll
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Accord.dll
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Accord.Math.Core.dll
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Accord.Math.dll
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Accord.xml
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Accord.Audio.xml
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Accord.Math.xml
+C:\Users\haier\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Accord.Math.Core.xml

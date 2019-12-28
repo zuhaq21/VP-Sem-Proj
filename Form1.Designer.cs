@@ -52,7 +52,7 @@
             this.checkButton.BackColor = System.Drawing.SystemColors.Control;
             this.checkButton.Enabled = false;
             this.checkButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkButton.Location = new System.Drawing.Point(244, 99);
+            this.checkButton.Location = new System.Drawing.Point(244, 57);
             this.checkButton.Name = "checkButton";
             this.checkButton.Size = new System.Drawing.Size(75, 38);
             this.checkButton.TabIndex = 1;
@@ -62,7 +62,7 @@
             // speakButton
             // 
             this.speakButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.speakButton.Location = new System.Drawing.Point(148, 99);
+            this.speakButton.Location = new System.Drawing.Point(107, 57);
             this.speakButton.Name = "speakButton";
             this.speakButton.Size = new System.Drawing.Size(75, 38);
             this.speakButton.TabIndex = 0;
@@ -79,6 +79,7 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(133, 144);
             this.panel2.TabIndex = 1;
+            this.panel2.Visible = false;
             // 
             // panel3
             // 
@@ -89,6 +90,7 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(139, 144);
             this.panel3.TabIndex = 2;
+            this.panel3.Visible = false;
             // 
             // exitButton
             // 
@@ -113,7 +115,7 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Gender Recognition";
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
